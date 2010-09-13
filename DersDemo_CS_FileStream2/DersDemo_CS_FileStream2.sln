@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersDemo_CS_FileStream2", "DersDemo_CS_FileStream2\DersDemo_CS_FileStream2.csproj", "{92160350-8F38-4430-A041-780F222D834F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92160350-8F38-4430-A041-780F222D834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92160350-8F38-4430-A041-780F222D834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92160350-8F38-4430-A041-780F222D834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92160350-8F38-4430-A041-780F222D834F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

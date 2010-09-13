@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersDemo_CS_Internal", "DersDemo_CS_Internal\DersDemo_CS_Internal.csproj", "{A0A1B6CD-87D0-4E05-877A-D7A573C28813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonOperations", "CommonOperations\CommonOperations.csproj", "{CCBA9AB7-E44A-498B-B100-9EF38235BF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A1B6CD-87D0-4E05-877A-D7A573C28813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A1B6CD-87D0-4E05-877A-D7A573C28813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A1B6CD-87D0-4E05-877A-D7A573C28813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A1B6CD-87D0-4E05-877A-D7A573C28813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBA9AB7-E44A-498B-B100-9EF38235BF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBA9AB7-E44A-498B-B100-9EF38235BF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBA9AB7-E44A-498B-B100-9EF38235BF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBA9AB7-E44A-498B-B100-9EF38235BF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersDemo_cs_Compress", "DersDemo_cs_Compress\DersDemo_cs_Compress.csproj", "{48C66E9E-A87B-476B-8ED6-932C8B29786D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C66E9E-A87B-476B-8ED6-932C8B29786D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C66E9E-A87B-476B-8ED6-932C8B29786D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C66E9E-A87B-476B-8ED6-932C8B29786D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C66E9E-A87B-476B-8ED6-932C8B29786D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
